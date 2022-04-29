@@ -1,0 +1,1 @@
+INSERT INTO `USERS` (`USERNAME`, `PASSWORD`, `EMAIL`, `PHONE`, `DATE`, `ROLE`) VALUES ('root', 'password', 'javier@javier.ie', '+34644735757', '2022-02-10 11:29:00', 'admin');

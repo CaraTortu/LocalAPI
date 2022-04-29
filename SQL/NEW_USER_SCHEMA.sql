@@ -1,0 +1,1 @@
+INSERT INTO `USERS` (`USERNAME`, `PASSWORD`, `EMAIL`, `PHONE`. `ROLE`) VALUES ('$username', '$password', '$email', '$phone', '$role');
